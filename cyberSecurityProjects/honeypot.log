@@ -1,0 +1,19 @@
+
+--- LogWeaver Honeypot Started [2025-08-30 10:59:05] ---
+Listening on ports: [21, 22, 80, 3389]
+---
+[2025-08-30 10:59:05] LISTENING - FTP honeypot on port 21
+[2025-08-30 10:59:06] LISTENING - SSH honeypot on port 22
+[2025-08-30 10:59:06] LISTENING - HTTP honeypot on port 80
+[2025-08-30 10:59:07] LISTENING - RDP honeypot on port 3389
+[2025-08-30 10:59:07] [*] All honeypots are running. Press Ctrl+C to stop.
+[2025-08-30 11:00:52] [*] Shutting down LogWeaver.
+
+--- LogWeaver Honeypot Started [2025-08-30 11:00:59] ---
+Listening on ports: [21, 22, 80, 3389]
+---
+[2025-08-30 11:00:59] LISTENING - FTP honeypot on port 21
+[2025-08-30 11:00:59] LISTENING - SSH honeypot on port 22
+[2025-08-30 11:01:00] LISTENING - HTTP honeypot on port 80
+[2025-08-30 11:01:00] LISTENING - RDP honeypot on port 3389
+[2025-08-30 11:01:01] [*] All honeypots are running. Press Ctrl+C to stop.
